@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou Roseli!
 
-<!--
-**ROSELIMARIADOSANJOSPEREIRA/ROSELIMARIADOSANJOSPEREIRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Aprendendo programação e tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias em aprendizado
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Learning](https://img.shields.io/badge/Learning-Programming-green)
+
+---
+
+## 📚 Áreas de interesse
+
+🧮 Matemática  
+💻 Programação  
+🎨 Arte e criatividade  
+🤖 Tecnologia e inovação  
+
+---
+
+## 🌱 Atualmente estudando
+
+- Python
+- lógica de programação
+- tecnologia aplicada à educação
+
+---
+
+## ✨ Frase
+
+"Aprender é transformar curiosidade em conhecimento."
