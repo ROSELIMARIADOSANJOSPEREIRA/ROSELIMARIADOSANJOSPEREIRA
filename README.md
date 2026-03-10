@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, eu sou Roseli!
 
 
-💻 Aprendendo programação e tecnologia  
+💻 Aprendendo programação , tecnologia, python, Css, Html  
 
 ---
 
